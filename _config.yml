@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Benjamin Lucas PhD"
 title_separator          : "-"
-name                     : &name ""
-description              : &description ""
+name                     : &name "Name line 13 yml"
+description              : &description "Description line 14 yml"
 url                      : https://benjaminmlucas.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "benjaminmlucas/benjaminmlucas.github.io"
@@ -21,7 +21,7 @@ repository               : "benjaminmlucas/benjaminmlucas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lucas_Ben_20220927_4.png"
+  avatar           : "bio_photo.jpg"
   name             : ""
   pronouns         : # example: "she/her"
   bio              : "Data Scientist"
