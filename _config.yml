@@ -22,9 +22,9 @@ repository               : "benjaminmlucas/benjaminmlucas.github.io"
 author:
   # Biographic information
   avatar           : "bio_photo.jpg"
-  name             : ""
+  name             : # "Benjamin Lucas"
   pronouns         : # example: "she/her"
-  bio              : "Data Scientist"
+  bio              : # "Data Scientist"
   location         : "Flagstaff, AZ"
   employer         : "Northern Arizona University"
   uri              : # URL
