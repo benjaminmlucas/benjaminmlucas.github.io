@@ -27,12 +27,13 @@ Education
 
 Positions Held
 ======
-* Assistant Professor of Data Science
-  * Northern Arizona University
+* Northern Arizona University
+  * Assistant Professor of Data Science
   * 2022 - present
 
-* Postdoctoral Research Associate
-  * University of Colorado Boulder
+* University of Colorado Boulder
+  * Postdoctoral Research Associate
+  * 2021 - 2022
 
 Publications
 ======
