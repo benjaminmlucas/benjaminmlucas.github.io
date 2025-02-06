@@ -15,7 +15,7 @@ I have a PhD in spatiotemporal machine learning from Monash University in Melbou
 
 Other Fun Facts
 ======
-I'm an Australian team representative at the World Mountain Running Championships (2016), 8-time Ironman triathlon finisher (including Hawaii in 2013), and Leadville 100 Trail Run finisher (2024).
+* I'm an Australian team representative at the World Mountain Running Championships (2016), 8-time Ironman triathlon finisher (including Hawaii in 2013), and Leadville 100 Trail Run finisher (2024).
 * Top 5 Favorite Music (...for today at least): Metz, The Weakerthans, Incendiary, Caspian, The Menzingers.
 * I listen to every single episode of The Bill Simmons Podcast.
 
@@ -27,7 +27,7 @@ Education
 
 Positions Held
 ======
-- Assistant Professor of Data Science
+* Assistant Professor of Data Science
   * Northern Arizona University
   * 2022 - present
 
